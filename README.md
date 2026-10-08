@@ -7,10 +7,7 @@
 
 <p align="center">
   <a href="#summary"><b>Summary</b></a> •
-  <a href="#kpis"><b>KPIs</b></a> •
   <a href="#philosophy"><b>Philosophy</b></a> •
-  <a href="#blueprint-backend"><b>Backend Blueprint</b></a> •
-  <a href="#projects"><b>Flagship Projects</b></a> •
   <a href="#stack"><b>Tech Stack</b></a> •
   <a href="#architecture"><b>Architecture</b></a> •
   <a href="#governance"><b>Governance</b></a> •
